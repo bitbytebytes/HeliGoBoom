@@ -1,5 +1,6 @@
-[1.1.0]
+[1.1.1]
 - added event start delay 0-300 seconds
+- update logging
 
 [1.0.0]
 - initial release
