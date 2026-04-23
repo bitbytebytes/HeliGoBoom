@@ -8,7 +8,7 @@ func _ready():
 
 func setup_mod():
     overrideScript()
-    log_message("HeliGoBoom: override complete.")
+    log_message("Startup completed")
 
 
 func overrideScript():
@@ -17,4 +17,4 @@ func overrideScript():
     
 
 func log_message(message: String) -> void:
-    print("[HeliGoBoom]: " + message)
+    print("[HeliGoBoom] " + message)
